@@ -9,7 +9,7 @@ During progressive growth the resolution of the generated images is doubled by s
 **Teaser Figure:** Network morphism approach and generated images
 ### Important 
 
-For access to the private code containing the morphing operations please send me a mail [augustschdmnt@gmail.com](mailto:augustschdmnt@gmail.com). 
+The [morphing operation code](http://proceedings.mlr.press/v48/wei16.pdf) cannot be publicly shared, so for any questions please send me a mail [augustschdmnt@gmail.com](mailto:augustschdmnt@gmail.com). 
 
 
 ### Steps
